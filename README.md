@@ -1,5 +1,7 @@
 # ShoppyWriteup
 
+Este fue mi primer writeup
+
 ~~~
 nmap -v -sS -oX vulnerabilidades.xml --stylesheet=https://svn.nmap.org/nmap/docs/nmap.xsl --script=vuln 10.10.11.180
 ~~~
